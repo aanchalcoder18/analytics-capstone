@@ -20,10 +20,10 @@ The objective is to explore the differences between **casual riders** and **annu
 
 | Folder/File | Description |
 |--------------|-------------|
-| `data/cleaned_cyclistic_data.csv` | Cleaned dataset used for analysis |
+| `cleaned_cyclistic_data.csv` | Cleaned dataset used for analysis |
 | `sql/cyclistic_analysis.sql` | SQL scripts for data cleaning, aggregation, and joins |
 | `r/cyclistic_analysis.R` | R script used for data transformation and visualization |
-| `docs/Cyclistic_Presentation.pdf` | Final presentation summarizing findings and visuals |
+| `Cyclistic_Presentation.pdf` | Final presentation summarizing findings and visuals |
 
 ---
 
