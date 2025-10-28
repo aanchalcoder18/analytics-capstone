@@ -53,7 +53,7 @@ The objective is to explore the differences between **casual riders** and **annu
 ---
 
 ## 📅 Time Period Analyzed  
-**January 2023 – December 2023**
+**January 2019 – December 2019**
 
 ---
 
@@ -61,13 +61,3 @@ The objective is to explore the differences between **casual riders** and **annu
 Public dataset provided by [Divvy Bikes (Lyft)](https://divvy-tripdata.s3.amazonaws.com/index.html).  
 Licensed under [Motivate International Inc. Data License Agreement](https://ride.divvybikes.com/data-license-agreement).
 
----
-
-## 👩‍💻 Author  
-**Aanchal [Last Name or Initials]**  
-📧 [your.email@example.com]  
-🌐 [yourportfolio.com or LinkedIn profile link]
-
----
-
-⭐ *If you found this project helpful, please consider giving it a star on GitHub!*  
